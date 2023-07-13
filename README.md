@@ -6,6 +6,6 @@ YouTube Downloader app without ADS
 
 - Clone The Project
 - Run
-''' Pub Get '''
+``` Pub Get ```
 - Run
-''' flutter build apk '''
+``` flutter build apk ```
